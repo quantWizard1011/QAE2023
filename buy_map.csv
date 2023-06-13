@@ -1,0 +1,510 @@
+"Date","Ticker","Name","Industry","buy/sell(mil shares)","buy/sell(mil $)","total outstandings(mil shares)","percent","quarter","aaa"
+"2023-03-31","AAPL","Apple Inc","Information Technology",11.1,1632.4,15723,0.1,"1Q23",1632.4
+"2023-03-31","COF","Capital One Financial Corp","Financials",11.1,1158.3,382,2.9,"1Q23",1158.3
+"2023-03-31","OXY","Occidental Petroleum Corp","Energy",18.5,1152.1,898,2.1,"1Q23",1152.1
+"2023-03-31","BAC","Bank of America Corp","Financials",32.2,1061.8,7999,0.4,"1Q23",1061.8
+"2023-03-31","GOOG","Alphabet Inc","Communication Services",10.6,1019.3,12807,0.1,"1Q23",1019.3
+"2023-03-31","D","Dominion Energy Inc","Utilities",15.9,929,835,1.9,"1Q23",929
+"2023-03-31","C","Citigroup Inc","Financials",16.4,804.9,1947,0.8,"1Q23",804.9
+"2023-03-31","BA","Boeing Co","Industrials",3.8,783,601,0.6,"1Q23",783
+"2023-03-31","MDT","Medtronic PLC","Health Care",8.4,682.3,1330,0.6,"1Q23",682.3
+"2023-03-31","BKNG","Booking Holdings Inc","Consumer Discretionary",0.2,591.7,37,0.5,"1Q23",591.7
+"2023-03-31","FIS","Fidelity National Information Services Inc","Financials",7.4,479.8,592,1.2,"1Q23",479.8
+"2023-03-31","SCHW","Charles Schwab Corp","Financials",6.2,453.6,1819,0.3,"1Q23",453.6
+"2023-03-31","HPQ","HP Inc","Information Technology",15.6,449.1,985,1.6,"1Q23",449.1
+"2023-03-31","LVS","Las Vegas Sands Corp","Consumer Discretionary",8,446.9,764,1,"1Q23",446.9
+"2023-03-31","MRK","Merck & Co Inc","Health Care",4.1,446.6,2538,0.2,"1Q23",446.6
+"2023-03-31","CMI","Cummins Inc","Industrials",1.6,380.3,142,1.1,"1Q23",380.3
+"2023-03-31","AVTR","Avantor Inc","Health Care",16.2,368.6,675,2.4,"1Q23",368.6
+"2023-03-31","KKR","KKR & Co Inc","Financials",6.6,356.2,861,0.8,"1Q23",356.2
+"2023-03-31","JCI","Johnson Controls International PLC","Industrials",5.4,347.3,686,0.8,"1Q23",347.3
+"2023-03-31","CHTR","Charter Communications Inc","Communication Services",0.8,291.1,151,0.5,"1Q23",291.1
+"2023-03-31","OVV","Ovintiv Inc","Energy",6.1,269.9,244,2.5,"1Q23",269.9
+"2023-03-31","TFC","Truist Financial Corp","Financials",6.1,265.9,1332,0.5,"1Q23",265.9
+"2023-03-31","PXD","Pioneer Natural Resources Co","Energy",1.2,262.7,234,0.5,"1Q23",262.7
+"2023-03-31","SWX","Southwest Gas Holdings Inc","Utilities",4,253.2,71,5.6,"1Q23",253.2
+"2023-03-31","APA","APA Corp (US)","Energy",6.2,248.1,309,2,"1Q23",248.1
+"2023-03-31","CVS","CVS Health Corp","Health Care",2.9,246.6,1280,0.2,"1Q23",246.6
+"2023-03-31","DOW","Dow Inc","Materials",4.4,245.9,707,0.6,"1Q23",245.9
+"2023-03-31","PCAR","Paccar Inc","Industrials",3.3,233.1,523,0.6,"1Q23",233.1
+"2023-03-31","ABT","Abbott Laboratories","Health Care",2.1,224.3,1739,0.1,"1Q23",224.3
+"2023-03-31","ELV","Elevance Health Inc","Health Care",0.5,218.2,237,0.2,"1Q23",218.2
+"2023-03-31","TEL","TE Connectivity Ltd","Information Technology",1.7,211.7,315,0.5,"1Q23",211.7
+"2023-03-31","GSK","GSK plc","Health Care",5.8,203.6,4095,0.1,"1Q23",203.6
+"2023-03-31","MGM","MGM Resorts International","Consumer Discretionary",4.7,193.7,373,1.3,"1Q23",193.7
+"2023-03-31","CARR","Carrier Global Corp","Industrials",4.2,190,835,0.5,"1Q23",190
+"2023-03-31","TT","Trane Technologies PLC","Industrials",1,177.1,229,0.4,"1Q23",177.1
+"2023-03-31","BILL","BILL Holdings Inc","Information Technology",1.8,171.4,106,1.7,"1Q23",171.4
+"2023-03-31","ENB","Enbridge Inc","Energy",4.3,168.7,2025,0.2,"1Q23",168.7
+"2023-03-31","KR","Kroger Co","Consumer Staples",3.5,158.9,717,0.5,"1Q23",158.9
+"2023-03-31","ERIC","Telefonaktiebolaget LM Ericsson","Information Technology",27.1,154.2,3334,0.8,"1Q23",154.2
+"2023-03-31","CRM","Salesforce Inc","Information Technology",0.9,150.9,1000,0.1,"1Q23",150.9
+"2023-03-31","LUV","Southwest Airlines Co","Industrials",4.2,144.5,595,0.7,"1Q23",144.5
+"2023-03-31","BAP","Credicorp Ltd","Financials",1,138.3,80,1.2,"1Q23",138.3
+"2023-03-31","UBER","Uber Technologies Inc","Industrials",4.3,135.5,2014,0.2,"1Q23",135.5
+"2023-03-31","LESL","Leslie's Inc","Consumer Discretionary",10.2,132.8,184,5.5,"1Q23",132.8
+"2023-03-31","HLN","HALEON PLC","Consumer Staples",16,127.5,9235,0.2,"1Q23",127.5
+"2023-03-31","AIG","American International Group Inc","Financials",2,115.1,728,0.3,"1Q23",115.1
+"2023-03-31","EPAM","Epam Systems Inc","Information Technology",0.4,113.6,58,0.7,"1Q23",113.6
+"2023-03-31","SU","Suncor Energy Inc","Energy",3.5,113.5,1322,0.3,"1Q23",113.5
+"2023-03-31","EWBC","East West Bancorp Inc","Financials",1.6,111,141,1.1,"1Q23",111
+"2023-03-31","FNF","Fidelity National Financial Inc","Financials",2.8,108.6,272,1,"1Q23",108.6
+"2023-03-31","MCO","Moody's Corp","Financials",0.3,103.6,184,0.2,"1Q23",103.6
+"2023-03-31","CRH","CRH PLC","Materials",2,95.1,742,0.3,"1Q23",95.1
+"2023-03-31","ABEV","Ambev SA","Consumer Staples",36.2,94.8,15750,0.2,"1Q23",94.8
+"2023-03-31","XP","XP Inc","Financials",6.6,94.3,561,1.2,"1Q23",94.3
+"2023-03-31","FND","Floor & Decor Holdings Inc","Consumer Discretionary",1,92.5,106,0.9,"1Q23",92.5
+"2023-03-31","BKR","Baker Hughes Co","Energy",3,91.6,1012,0.3,"1Q23",91.6
+"2023-03-31","COP","Conocophillips","Energy",0.8,89.7,1210,0.1,"1Q23",89.7
+"2023-03-31","K","Kellogg Co","Consumer Staples",1.3,89.6,343,0.4,"1Q23",89.6
+"2023-03-31","VAL","Valaris Ltd","Energy",1.3,89.5,75,1.7,"1Q23",89.5
+"2023-03-31","GEHC","GE Healthcare Technologies Inc","Health Care",1.2,85.7,455,0.3,"1Q23",85.7
+"2023-03-31","JD","JD.Com Inc","Consumer Discretionary",1.6,83.7,3159,0.1,"1Q23",83.7
+"2023-03-31","SWKS","Skyworks Solutions Inc","Information Technology",0.7,82.9,159,0.4,"1Q23",82.9
+"2023-03-31","NTRS","Northern Trust Corp","Financials",0.9,81.7,208,0.4,"1Q23",81.7
+"2023-03-31","TGTX","TG Therapeutics Inc","Health Care",5.1,77.3,146,3.5,"1Q23",77.3
+"2023-03-31","FERG","Ferguson PLC","Industrials",0.5,75.4,205,0.2,"1Q23",75.4
+"2023-03-31","JAZZ","Jazz Pharmaceuticals PLC","Health Care",0.5,71.3,63,0.8,"1Q23",71.3
+"2023-03-31","ROIV","Roivant Sciences Ltd","Health Care",8.2,67.6,758,1.1,"1Q23",67.6
+"2023-03-31","APTV","Aptiv PLC","Consumer Discretionary",0.6,66.1,271,0.2,"1Q23",66.1
+"2023-03-31","ITUB","Itau Unibanco Holding SA","Financials",13.5,64.6,9804,0.1,"1Q23",64.6
+"2023-03-31","FFIV","F5 Inc","Information Technology",0.4,62.4,60,0.7,"1Q23",62.4
+"2023-03-31","NTR","Nutrien Ltd","Materials",0.8,61.9,500,0.2,"1Q23",61.9
+"2023-03-31","MTB","M&T Bank Corp","Financials",0.4,60.3,168,0.2,"1Q23",60.3
+"2023-03-31","EQR","Equity Residential","Real Estate",1,60,379,0.3,"1Q23",60
+"2023-03-31","CFG","Citizens Financial Group Inc","Financials",1.5,59.4,484,0.3,"1Q23",59.4
+"2023-03-31","MRO","Marathon Oil Corp","Energy",2.3,59.3,623,0.4,"1Q23",59.3
+"2023-03-31","MGA","Magna International Inc","Consumer Discretionary",1,59.1,286,0.3,"1Q23",59.1
+"2023-03-31","ILMN","Illumina Inc","Health Care",0.3,58.5,158,0.2,"1Q23",58.5
+"2023-03-31","FBIN","Fortune Brands Innovations Inc","Industrials",0.9,56.9,127,0.7,"1Q23",56.9
+"2023-03-31","BKI","Black Knight Inc","Information Technology",0.9,56.6,157,0.6,"1Q23",56.6
+"2023-03-31","CG","Carlyle Group Inc","Financials",1.7,55.8,364,0.5,"1Q23",55.8
+"2023-03-31","VTRS","Viatris Inc","Health Care",5,55.5,1197,0.4,"1Q23",55.5
+"2023-03-31","STZ","Constellation Brands Inc","Consumer Staples",0.2,55.3,184,0.1,"1Q23",55.3
+"2023-03-31","TAP","Molson Coors Beverage Co","Consumer Staples",1.1,55.2,203,0.5,"1Q23",55.2
+"2023-03-31","TECK","Teck Resources Ltd","Materials",1.4,53.6,514,0.3,"1Q23",53.6
+"2023-03-31","CEIX","CONSOL Energy Inc","Energy",0.9,52.9,34,2.6,"1Q23",52.9
+"2023-03-31","APLS","Apellis Pharmaceuticals Inc","Health Care",0.9,51,116,0.8,"1Q23",51
+"2023-03-31","IMCR","Immunocore Holdings PLC","Health Care",0.9,50.9,48,1.9,"1Q23",50.9
+"2023-03-31","HHC","Howard Hughes Corp","Real Estate",0.6,50.5,50,1.2,"1Q23",50.5
+"2023-03-31","BCYC","Bicycle Therapeutics PLC","Health Care",1.9,48.9,30,6.3,"1Q23",48.9
+"2023-03-31","HAL","Halliburton Co","Energy",1.3,48.4,903,0.1,"1Q23",48.4
+"2023-03-31","KRTX","Karuna Therapeutics Inc","Health Care",0.3,48,37,0.8,"1Q23",48
+"2023-03-31","IQV","IQVIA Holdings Inc","Health Care",0.2,47.7,186,0.1,"1Q23",47.7
+"2023-03-31","AWK","American Water Works Company Inc","Utilities",0.3,47,195,0.2,"1Q23",47
+"2023-03-31","PNC","PNC Financial Services Group Inc","Financials",0.3,45.3,399,0.1,"1Q23",45.3
+"2023-03-31","GNRC","Generac Holdings Inc","Industrials",0.4,45.1,62,0.6,"1Q23",45.1
+"2023-03-31","HAS","Hasbro Inc","Consumer Discretionary",0.8,44.1,139,0.6,"1Q23",44.1
+"2023-03-31","THC","Tenet Healthcare Corp","Health Care",0.8,43.2,103,0.8,"1Q23",43.2
+"2023-03-31","JXN","Jackson Financial Inc","Financials",1.1,43.1,81,1.4,"1Q23",43.1
+"2023-03-31","SSNC","SS&C Technologies Holdings Inc","Industrials",0.7,43.1,249,0.3,"1Q23",43.1
+"2023-03-31","SWK","Stanley Black & Decker Inc","Industrials",0.5,42.8,153,0.3,"1Q23",42.8
+"2023-03-31","HMC","Honda Motor Co Ltd","Consumer Discretionary",1.7,42.6,1811,0.1,"1Q23",42.6
+"2023-03-31","MET","MetLife Inc","Financials",0.6,42.6,769,0.1,"1Q23",42.6
+"2023-03-31","CZR","Caesars Entertainment Inc","Consumer Discretionary",0.9,42.1,215,0.4,"1Q23",42.1
+"2023-03-31","F","Ford Motor Co","Consumer Discretionary",3.2,40.2,4000,0.1,"1Q23",40.2
+"2023-03-31","EOG","EOG Resources Inc","Energy",0.3,40.1,588,0.1,"1Q23",40.1
+"2023-03-31","FITB","Fifth Third Bancorp","Financials",1.2,38.5,681,0.2,"1Q23",38.5
+"2023-03-31","MAN","ManpowerGroup Inc","Industrials",0.5,38.4,51,1,"1Q23",38.4
+"2023-03-31","AYI","Acuity Brands Inc","Industrials",0.2,38.2,32,0.6,"1Q23",38.2
+"2023-03-31","EVH","Evolent Health Inc","Health Care",1.2,37.8,113,1.1,"1Q23",37.8
+"2023-03-31","RGEN","Repligen Corp","Health Care",0.2,37.5,56,0.4,"1Q23",37.5
+"2023-03-31","BLK","BlackRock Inc","Financials",0.1,37.4,150,0.1,"1Q23",37.4
+"2023-03-31","CVE","Cenovus Energy Inc","Energy",2,37.3,1909,0.1,"1Q23",37.3
+"2023-03-31","EXPE","Expedia Group Inc","Consumer Discretionary",0.4,37.2,150,0.3,"1Q23",37.2
+"2023-03-31","ERJ","Embraer SA","Industrials",2.8,36.8,740,0.4,"1Q23",36.8
+"2023-03-31","CTSH","Cognizant Technology Solutions Corp","Information Technology",0.6,36.2,507,0.1,"1Q23",36.2
+"2023-03-31","BHC","Bausch Health Companies Inc","Health Care",4.5,35.9,364,1.2,"1Q23",35.9
+"2023-03-31","CNC","Centene Corp","Health Care",0.5,35.5,552,0.1,"1Q23",35.5
+"2023-03-31","CHRD","Chord Energy Corp","Energy",0.3,35.2,42,0.7,"1Q23",35.2
+"2023-03-31","DEI","Douglas Emmett Inc","Real Estate",2.3,34,176,1.3,"1Q23",34
+"2023-03-31","UBSI","United Bankshares Inc","Financials",0.9,33.9,135,0.7,"1Q23",33.9
+"2023-03-31","CMA","Comerica Inc","Financials",0.5,33.8,132,0.4,"1Q23",33.8
+"2023-03-31","HOMB","Home BancShares Inc","Financials",1.5,33.8,204,0.7,"1Q23",33.8
+"2023-03-31","CNX","CNX Resources Corp","Energy",2.1,33,168,1.2,"1Q23",33
+"2023-03-31","SAM","Boston Beer Company Inc","Consumer Staples",0.1,32.7,12,0.8,"1Q23",32.7
+"2023-03-31","WELL","Welltower Inc","Real Estate",0.4,31.9,496,0.1,"1Q23",31.9
+"2023-03-31","AVA","Avista Corp","Utilities",0.8,31.4,75,1.1,"1Q23",31.4
+"2023-03-31","DOOR","Masonite International Corp","Industrials",0.4,31.4,22,1.8,"1Q23",31.4
+"2023-03-31","BPOP","Popular Inc","Financials",0.5,31.2,72,0.7,"1Q23",31.2
+"2023-03-31","JBI","Janus International Group Inc","Industrials",3,31.2,147,2,"1Q23",31.2
+"2023-03-31","CPNG","Coupang Inc","Consumer Discretionary",2,31.1,1777,0.1,"1Q23",31.1
+"2023-03-31","AER","AerCap Holdings NV","Industrials",0.5,30.5,238,0.2,"1Q23",30.5
+"2023-03-31","FANG","Diamondback Energy Inc","Energy",0.2,29.8,182,0.1,"1Q23",29.8
+"2023-03-31","BN","Brookfield Corp","Financials",0.9,29.6,1564,0.1,"1Q23",29.6
+"2023-03-31","ETWO","E2open Parent Holdings Inc","Information Technology",4.8,29.3,302,1.6,"1Q23",29.3
+"2023-03-31","MMM","3M Co","Industrials",0.3,28.7,552,0.1,"1Q23",28.7
+"2023-03-31","SNOW","Snowflake Inc.","Information Technology",0.2,27.4,325,0.1,"1Q23",27.4
+"2023-03-31","TOL","Toll Brothers Inc","Consumer Discretionary",0.5,27.4,111,0.5,"1Q23",27.4
+"2023-03-31","EGP","Eastgroup Properties Inc","Real Estate",0.2,27.3,44,0.5,"1Q23",27.3
+"2023-03-31","JLL","Jones Lang LaSalle Inc","Real Estate",0.2,27.2,48,0.4,"1Q23",27.2
+"2023-03-31","MBC","MasterBrand Inc","Industrials",3.1,27.2,128,2.4,"1Q23",27.2
+"2023-03-31","TAK","Takeda Pharmaceutical Co Ltd","Health Care",1.7,27.1,1582,0.1,"1Q23",27.1
+"2023-03-31","IBKR","Interactive Brokers Group Inc","Financials",0.3,26.9,423,0.1,"1Q23",26.9
+"2023-03-31","FIGS","Figs Inc","Health Care",3.5,26.7,167,2.1,"1Q23",26.7
+"2023-03-31","ICE","Intercontinental Exchange Inc","Financials",0.3,26.3,560,0.1,"1Q23",26.3
+"2023-03-31","MRNA","Moderna Inc","Health Care",0.2,25.6,386,0.1,"1Q23",25.6
+"2023-03-31","DNB","Dun & Bradstreet Holdings Inc","Industrials",2,25.5,439,0.5,"1Q23",25.5
+"2023-03-31","EIX","Edison International","Utilities",0.4,25.3,383,0.1,"1Q23",25.3
+"2023-03-31","GL","Globe Life Inc","Financials",0.2,25.1,97,0.2,"1Q23",25.1
+"2023-03-31","SITM","SiTime Corp","Information Technology",0.2,25.1,22,0.9,"1Q23",25.1
+"2023-03-31","JEF","Jefferies Financial Group Inc","Financials",0.7,25,233,0.3,"1Q23",25
+"2023-03-31","UTHR","United Therapeutics Corp","Health Care",0.1,25,47,0.2,"1Q23",25
+"2023-03-31","KBR","KBR Inc","Industrials",0.5,24.9,136,0.4,"1Q23",24.9
+"2023-03-31","RVMD","Revolution Medicines Inc","Health Care",1,24.1,106,0.9,"1Q23",24.1
+"2023-03-31","BZ","Kanzhun Ltd","Communication Services",1.1,24,445,0.2,"1Q23",24
+"2023-03-31","LOB","Live Oak Bancshares Inc","Financials",0.8,23.9,44,1.8,"1Q23",23.9
+"2023-03-31","NOV","Nov Inc","Energy",1.1,23.8,394,0.3,"1Q23",23.8
+"2023-03-31","LYV","Live Nation Entertainment Inc","Communication Services",0.3,23.5,232,0.1,"1Q23",23.5
+"2023-03-31","NWS","News Corp","Communication Services",1.3,23.5,576,0.2,"1Q23",23.5
+"2023-03-31","PRTA","Prothena Corporation PLC","Health Care",0.4,23.3,53,0.8,"1Q23",23.3
+"2023-03-31","RJF","Raymond James Financial Inc","Financials",0.2,23,215,0.1,"1Q23",23
+"2023-03-31","FULT","Fulton Financial Corp","Financials",1.4,22.6,165,0.8,"1Q23",22.6
+"2023-03-31","GRFS","Grifols SA","Health Care",2.6,22.3,688,0.4,"1Q23",22.3
+"2023-03-31","NTLA","Intellia Therapeutics Inc","Health Care",0.6,22,88,0.7,"1Q23",22
+"2023-03-31","SNV","Synovus Financial Corp","Financials",0.6,21.6,146,0.4,"1Q23",21.6
+"2023-03-31","COHR","Coherent Corp","Information Technology",0.5,21.3,139,0.4,"1Q23",21.3
+"2023-03-31","NYCB","New York Community Bancorp Inc","Financials",2.3,21.1,722,0.3,"1Q23",21.1
+"2023-03-31","POR","Portland General Electric Co","Utilities",0.4,21,97,0.4,"1Q23",21
+"2023-03-31","ICLR","ICON PLC","Health Care",0.1,20.5,82,0.1,"1Q23",20.5
+"2023-03-31","GTLB","GitLab Inc","Information Technology",0.5,20.1,152,0.3,"1Q23",20.1
+"2023-03-31","CCK","Crown Holdings Inc","Materials",0.2,19.9,120,0.2,"1Q23",19.9
+"2023-03-31","CYTK","Cytokinetics Inc","Health Care",0.5,19.8,96,0.5,"1Q23",19.8
+"2023-03-31","LSI","Life Storage Inc","Real Estate",0.2,19.7,85,0.2,"1Q23",19.7
+"2023-03-31","ELAN","Elanco Animal Health Inc","Health Care",1.7,19.6,492,0.3,"1Q23",19.6
+"2023-03-31","NEOG","Neogen Corp","Health Care",1,19.6,216,0.5,"1Q23",19.6
+"2023-03-31","TRNO","Terreno Realty Corp","Real Estate",0.3,19.5,83,0.4,"1Q23",19.5
+"2023-03-31","DKNG","DraftKings Inc","Consumer Discretionary",1.2,19.3,462,0.3,"1Q23",19.3
+"2023-03-31","EQC","Equity Commonwealth","Real Estate",0.8,18.8,110,0.7,"1Q23",18.8
+"2023-03-31","LSXMK","Liberty Media Corp","Communication Services",0.5,18.7,614,0.1,"1Q23",18.7
+"2023-03-31","AQN","Algonquin Power & Utilities Corp","Utilities",2.5,18.4,688,0.4,"1Q23",18.4
+"2023-03-31","CF","CF Industries Holdings Inc","Materials",0.2,17.9,196,0.1,"1Q23",17.9
+"2023-03-31","APG","APi Group Corp","Industrials",0.8,17.7,235,0.3,"1Q23",17.7
+"2023-03-31","ODFL","Old Dominion Freight Line Inc","Industrials",0.1,17.7,110,0.1,"1Q23",17.7
+"2023-03-31","CPRI","Capri Holdings Ltd","Consumer Discretionary",0.3,17.6,126,0.2,"1Q23",17.6
+"2023-03-31","MTCH","Match Group Inc","Communication Services",0.4,17.4,279,0.1,"1Q23",17.4
+"2023-03-31","NARI","Inari Medical Inc","Health Care",0.3,17.4,57,0.5,"1Q23",17.4
+"2023-03-31","ALLY","Ally Financial Inc","Financials",0.6,17.2,301,0.2,"1Q23",17.2
+"2023-03-31","FSLY","Fastly Inc","Information Technology",1.4,17.2,127,1.1,"1Q23",17.2
+"2023-03-31","GWRE","Guidewire Software Inc","Information Technology",0.2,17.2,82,0.2,"1Q23",17.2
+"2023-03-31","LSXMA","Liberty Media Corp","Communication Services",0.5,17.2,614,0.1,"1Q23",17.2
+"2023-03-31","IGT","International Game Technology PLC","Consumer Discretionary",0.7,16.9,200,0.3,"1Q23",16.9
+"2023-03-31","CYBR","Cyberark Software Ltd","Information Technology",0.1,16.8,41,0.2,"1Q23",16.8
+"2023-03-31","TRS","TriMas Corp","Materials",0.6,16.8,41,1.5,"1Q23",16.8
+"2023-03-31","ADT","ADT Inc","Consumer Discretionary",2,16.5,922,0.2,"1Q23",16.5
+"2023-03-31","DCPH","Deciphera Pharmaceuticals Inc","Health Care",1,16.5,79,1.3,"1Q23",16.5
+"2023-03-31","FG","F&G Annuities & Life Inc","Financials",0.8,16.4,126,0.6,"1Q23",16.4
+"2023-03-31","CLVT","Clarivate PLC","Industrials",1.6,16.2,676,0.2,"1Q23",16.2
+"2023-03-31","CNXC","Concentrix Corp","Industrials",0.1,16,52,0.2,"1Q23",16
+"2023-03-31","HBI","HanesBrands Inc","Consumer Discretionary",2.4,15.3,349,0.7,"1Q23",15.3
+"2023-03-31","IR","Ingersoll Rand Inc","Industrials",0.3,15,405,0.1,"1Q23",15
+"2023-03-31","MTDR","Matador Resources Co","Energy",0.3,15,119,0.3,"1Q23",15
+"2023-03-31","CCAP","Crescent Capital BDC Inc","Financials",1,14.2,37,2.7,"1Q23",14.2
+"2023-03-31","CWAN","Clearwater Analytics Holdings Inc","Information Technology",0.8,14.2,241,0.3,"1Q23",14.2
+"2023-03-31","STX","Seagate Technology Holdings PLC","Information Technology",0.2,14.2,207,0.1,"1Q23",14.2
+"2023-03-31","SLM","SLM Corp","Financials",1,14.1,242,0.4,"1Q23",14.1
+"2023-03-31","EQH","Equitable Holdings Inc","Financials",0.5,14,384,0.1,"1Q23",14
+"2023-03-31","RRR","Red Rock Resorts Inc","Consumer Discretionary",0.3,14,104,0.3,"1Q23",14
+"2023-03-31","DEN","Denbury Inc","Energy",0.2,13.7,50,0.4,"1Q23",13.7
+"2023-03-31","EXR","Extra Space Storage Inc","Real Estate",0.1,13.3,135,0.1,"1Q23",13.3
+"2023-03-31","FNCH","Finch Therapeutics Group Inc","Health Care",1,13.3,48,2.1,"1Q23",13.3
+"2023-03-31","JBLU","JetBlue Airways Corp","Industrials",1.7,13.3,328,0.5,"1Q23",13.3
+"2023-03-31","AEM","Agnico Eagle Mines Ltd","Materials",0.3,12.9,492,0.1,"1Q23",12.9
+"2023-03-31","PAHC","Phibro Animal Health Corp","Health Care",0.8,12.8,41,2,"1Q23",12.8
+"2023-03-31","CERT","Certara Inc","Health Care",0.6,12.3,160,0.4,"1Q23",12.3
+"2023-03-31","VAC","Marriott Vacations Worldwide Corp","Consumer Discretionary",0.1,12.3,37,0.3,"1Q23",12.3
+"2023-03-31","GBX","Greenbrier Companies Inc","Industrials",0.4,12.2,33,1.2,"1Q23",12.2
+"2023-03-31","PHG","Koninklijke Philips NV","Health Care",0.7,12.2,889,0.1,"1Q23",12.2
+"2023-03-31","UVV","Universal Corp","Consumer Staples",0.2,12.1,25,0.8,"1Q23",12.1
+"2023-03-31","GTLS","Chart Industries Inc","Industrials",0.1,12,42,0.2,"1Q23",12
+"2023-03-31","ATSG","Air Transport Services Group Inc","Industrials",0.5,11.9,71,0.7,"1Q23",11.9
+"2023-03-31","GPOR","Gulfport Energy Corp","Energy",0.2,11.9,19,1.1,"1Q23",11.9
+"2023-03-31","AU","AngloGold Ashanti Ltd","Materials",0.6,11.8,419,0.1,"1Q23",11.8
+"2023-03-31","BYD","Boyd Gaming Corp","Consumer Discretionary",0.2,11.7,102,0.2,"1Q23",11.7
+"2023-03-31","ZM","Zoom Video Communications Inc","Information Technology",0.2,11.6,296,0.1,"1Q23",11.6
+"2023-03-31","RCKT","Rocket Pharmaceuticals Inc","Health Care",0.6,11.5,79,0.8,"1Q23",11.5
+"2023-03-31","SHOO","Steven Madden Ltd","Consumer Discretionary",0.3,11.4,76,0.4,"1Q23",11.4
+"2023-03-31","MEG","Montrose Environmental Group Inc","Industrials",0.2,11.3,30,0.7,"1Q23",11.3
+"2023-03-31","RBA","RB Global Inc","Industrials",0.2,11.3,182,0.1,"1Q23",11.3
+"2023-03-31","KALU","Kaiser Aluminum Corp","Materials",0.1,11.1,16,0.6,"1Q23",11.1
+"2023-03-31","VIV","Telefonica Brasil SA","Communication Services",1.5,11.1,1664,0.1,"1Q23",11.1
+"2023-03-31","DNUT","Krispy Kreme Inc","Consumer Discretionary",0.8,10.8,168,0.5,"1Q23",10.8
+"2023-03-31","TCBI","Texas Capital Bancshares Inc","Financials",0.2,10.7,48,0.4,"1Q23",10.7
+"2023-03-31","STGW","Stagwell Inc","Communication Services",1.5,10.5,293,0.5,"1Q23",10.5
+"2023-03-31","LIND","Lindblad Expeditions Holdings Inc","Consumer Discretionary",1,10.4,53,1.9,"1Q23",10.4
+"2023-03-31","AEL","American Equity Investment Life Holding Co","Financials",0.2,10.3,78,0.3,"1Q23",10.3
+"2023-03-31","TGNA","Tegna Inc","Communication Services",0.6,10.3,224,0.3,"1Q23",10.3
+"2023-03-31","EXPD","Expeditors International of Washington Inc","Industrials",0.1,10,153,0.1,"1Q23",10
+"2023-03-31","ITRI","Itron Inc","Information Technology",0.2,10,45,0.4,"1Q23",10
+"2023-03-31","ONON","On Holding AG","Consumer Discretionary",0.4,9.6,317,0.1,"1Q23",9.6
+"2023-03-31","SCPH","scPharmaceuticals Inc","Health Care",1.3,9.6,36,3.6,"1Q23",9.6
+"2023-03-31","CLDT","Chatham Lodging Trust","Real Estate",0.8,9.4,49,1.6,"1Q23",9.4
+"2023-03-31","REXR","Rexford Industrial Realty Inc","Real Estate",0.2,9.4,208,0.1,"1Q23",9.4
+"2023-03-31","REZI","Resideo Technologies Inc","Industrials",0.5,9.2,147,0.3,"1Q23",9.2
+"2023-03-31","KYMR","Kymera Therapeutics Inc","Health Care",0.3,8.9,55,0.5,"1Q23",8.9
+"2023-03-31","SBGI","Sinclair Broadcast Group Inc","Communication Services",0.5,8.9,68,0.7,"1Q23",8.9
+"2023-03-31","EPRT","Essential Properties Realty Trust Inc","Real Estate",0.4,8.6,149,0.3,"1Q23",8.6
+"2023-03-31","MHK","Mohawk Industries Inc","Consumer Discretionary",0.1,8.4,64,0.2,"1Q23",8.4
+"2023-03-31","XPRO","Expro Group Holdings NV","Energy",0.4,8.4,109,0.4,"1Q23",8.4
+"2023-03-31","AEO","American Eagle Outfitters Inc","Consumer Discretionary",0.6,8.3,196,0.3,"1Q23",8.3
+"2023-03-31","GSM","Ferroglobe PLC","Materials",1.8,8.2,187,1,"1Q23",8.2
+"2023-03-31","ADC","Agree Realty Corp","Real Estate",0.1,8.1,93,0.1,"1Q23",8.1
+"2023-03-31","SHLS","Shoals Technologies Group Inc","Industrials",0.3,8.1,170,0.2,"1Q23",8.1
+"2023-03-31","SHG","Shinhan Financial Group Co Ltd","Financials",0.3,8,509,0.1,"1Q23",8
+"2023-03-31","DAR","Darling Ingredients Inc","Consumer Staples",0.1,7.8,160,0.1,"1Q23",7.8
+"2023-03-31","INT","World Fuel Services Corp","Energy",0.3,7.8,62,0.5,"1Q23",7.8
+"2023-03-31","TBI","TrueBlue Inc","Industrials",0.4,7.7,32,1.2,"1Q23",7.7
+"2023-03-31","AOS","A O Smith Corp","Industrials",0.1,7.6,151,0.1,"1Q23",7.6
+"2023-03-31","ASGN","ASGN Inc","Industrials",0.1,7.6,49,0.2,"1Q23",7.6
+"2023-03-31","CNNE","Cannae Holdings Inc","Financials",0.3,7.5,76,0.4,"1Q23",7.5
+"2023-03-31","ASTL","Algoma Steel Group Inc","Materials",0.9,7.3,104,0.9,"1Q23",7.3
+"2023-03-31","NTGR","NETGEAR Inc","Information Technology",0.4,7.3,29,1.4,"1Q23",7.3
+"2023-03-31","ARW","Arrow Electronics Inc","Information Technology",0.1,7.2,57,0.2,"1Q23",7.2
+"2023-03-31","CHEF","Chefs' Warehouse Inc","Consumer Staples",0.2,7.1,40,0.5,"1Q23",7.1
+"2023-03-31","QDEL","QuidelOrtho Corp","Health Care",0.1,7.1,67,0.1,"1Q23",7.1
+"2023-03-31","SEE","Sealed Air Corp","Materials",0.1,7.1,144,0.1,"1Q23",7.1
+"2023-03-31","GVA","Granite Construction Inc","Industrials",0.2,7,44,0.5,"1Q23",7
+"2023-03-31","SPR","Spirit AeroSystems Holdings Inc","Industrials",0.2,6.8,105,0.2,"1Q23",6.8
+"2023-03-31","HCKT","Hackett Group Inc","Information Technology",0.3,6.7,27,1.1,"1Q23",6.7
+"2023-03-31","NVST","Envista Holdings Corp","Health Care",0.2,6.5,164,0.1,"1Q23",6.5
+"2023-03-31","FRPT","Freshpet Inc","Consumer Staples",0.1,6.4,48,0.2,"1Q23",6.4
+"2023-03-31","USNA","USANA Health Sciences Inc","Consumer Staples",0.1,6.3,19,0.5,"1Q23",6.3
+"2023-03-31","AMWD","American Woodmark Corp","Industrials",0.1,6.2,17,0.6,"1Q23",6.2
+"2023-03-31","EGBN","Eagle Bancorp Inc","Financials",0.1,6.2,31,0.3,"1Q23",6.2
+"2023-03-31","PKX","Posco Holdings Inc","Materials",0.1,6.2,85,0.1,"1Q23",6.2
+"2023-03-31","AAL","American Airlines Group Inc","Industrials",0.4,6.1,653,0.1,"1Q23",6.1
+"2023-03-31","RIG","Transocean Ltd","Energy",0.9,6.1,732,0.1,"1Q23",6.1
+"2023-03-31","AMED","Amedisys Inc","Health Care",0.1,6,33,0.3,"1Q23",6
+"2023-03-31","IIIN","Insteel Industries Inc","Industrials",0.2,6,19,1.1,"1Q23",6
+"2023-03-31","SCSC","Scansource Inc","Information Technology",0.2,6,25,0.8,"1Q23",6
+"2023-03-31","AR","Antero Resources Corp","Energy",0.2,5.8,299,0.1,"1Q23",5.8
+"2023-03-31","FET","Forum Energy Technologies Inc","Energy",0.2,5.5,10,2,"1Q23",5.5
+"2023-03-31","VRAY","ViewRay Inc","Health Care",1.3,5.5,182,0.7,"1Q23",5.5
+"2023-03-31","WWD","Woodward Inc","Industrials",0.1,5.5,60,0.2,"1Q23",5.5
+"2023-03-31","ACRS","Aclaris Therapeutics Inc","Health Care",0.4,5.3,67,0.6,"1Q23",5.3
+"2023-03-31","AMRC","Ameresco Inc","Industrials",0.1,5.3,52,0.2,"1Q23",5.3
+"2023-03-31","OKTA","Okta Inc","Information Technology",0.1,5.3,161,0.1,"1Q23",5.3
+"2023-03-31","KTOS","Kratos Defense and Security Solutions Inc","Industrials",0.4,5.2,127,0.3,"1Q23",5.2
+"2023-03-31","AYX","Alteryx Inc","Information Technology",0.1,5,70,0.1,"1Q23",5
+"2023-03-31","DINO","HF Sinclair Corp","Energy",0.1,5,193,0.1,"1Q23",5
+"2023-03-31","EGRX","Eagle Pharmaceuticals Inc","Health Care",0.2,5,13,1.5,"1Q23",5
+"2023-03-31","RBT","Rubicon Technologies Inc","Information Technology",3.9,5,188,2.1,"1Q23",5
+"2023-03-31","CUZ","Cousins Properties Inc","Real Estate",0.2,4.9,152,0.1,"1Q23",4.9
+"2023-03-31","GHM","Graham Corp","Industrials",0.4,4.9,11,3.6,"1Q23",4.9
+"2023-03-31","PCRX","Pacira Biosciences Inc","Health Care",0.1,4.9,46,0.2,"1Q23",4.9
+"2023-03-31","CUBI","Customers Bancorp Inc","Financials",0.2,4.8,31,0.6,"1Q23",4.8
+"2023-03-31","LPX","Louisiana-Pacific Corp","Materials",0.1,4.8,72,0.1,"1Q23",4.8
+"2023-03-31","MRC","MRC Global Inc","Industrials",0.4,4.8,84,0.5,"1Q23",4.8
+"2023-03-31","CPE","Callon Petroleum Co","Energy",0.1,4.7,62,0.2,"1Q23",4.7
+"2023-03-31","KFY","Korn Ferry","Industrials",0.1,4.7,52,0.2,"1Q23",4.7
+"2023-03-31","NWL","Newell Brands Inc","Consumer Discretionary",0.3,4.7,414,0.1,"1Q23",4.7
+"2023-03-31","PAGS","PagSeguro Digital Ltd","Financials",0.5,4.7,330,0.2,"1Q23",4.7
+"2023-03-31","PSTG","Pure Storage Inc","Information Technology",0.2,4.7,308,0.1,"1Q23",4.7
+"2023-03-31","RNG","RingCentral Inc","Information Technology",0.1,4.7,95,0.1,"1Q23",4.7
+"2023-03-31","UNIT","Uniti Group Inc","Real Estate",0.9,4.7,236,0.4,"1Q23",4.7
+"2023-03-31","SCVL","Shoe Carnival Inc","Consumer Discretionary",0.2,4.4,27,0.7,"1Q23",4.4
+"2023-03-31","BWXT","BWX Technologies Inc","Industrials",0.1,4.2,91,0.1,"1Q23",4.2
+"2023-03-31","ESTA","Establishment Labs Holdings Inc","Health Care",0.1,4.2,24,0.4,"1Q23",4.2
+"2023-03-31","RRC","Range Resources Corp","Energy",0.2,4.2,242,0.1,"1Q23",4.2
+"2023-03-31","TG","Tredegar Corp","Materials",0.4,4.2,34,1.2,"1Q23",4.2
+"2023-03-31","LTHM","Livent Corp","Materials",0.2,4.1,180,0.1,"1Q23",4.1
+"2023-03-31","BEPC","Brookfield Renewable Corp","Utilities",0.1,4,172,0.1,"1Q23",4
+"2023-03-31","GTX","Garrett Motion Inc","Consumer Discretionary",0.5,4,65,0.8,"1Q23",4
+"2023-03-31","NPK","National Presto Industries Inc","Industrials",0.1,4,7,1.4,"1Q23",4
+"2023-03-31","ATRA","Atara Biotherapeutics Inc","Health Care",1,3.8,96,1,"1Q23",3.8
+"2023-03-31","LXU","LSB Industries Inc","Materials",0.3,3.8,76,0.4,"1Q23",3.8
+"2023-03-31","PBH","Prestige Consumer Healthcare Inc","Health Care",0.1,3.8,50,0.2,"1Q23",3.8
+"2023-03-31","AI","C3.ai Inc","Information Technology",0.2,3.7,112,0.2,"1Q23",3.7
+"2023-03-31","CDE","Coeur Mining Inc","Materials",1.1,3.7,331,0.3,"1Q23",3.7
+"2023-03-31","EVA","Enviva Inc","Energy",0.1,3.7,68,0.1,"1Q23",3.7
+"2023-03-31","BKU","BankUnited Inc","Financials",0.1,3.6,74,0.1,"1Q23",3.6
+"2023-03-31","SASR","Sandy Spring Bancorp Inc","Financials",0.1,3.6,45,0.2,"1Q23",3.6
+"2023-03-31","SF","Stifel Financial Corp","Financials",0.1,3.6,106,0.1,"1Q23",3.6
+"2023-03-31","XNCR","Xencor Inc","Health Care",0.1,3.6,60,0.2,"1Q23",3.6
+"2023-03-31","MRVI","Maravai LifeSciences Holdings Inc","Health Care",0.2,3.5,251,0.1,"1Q23",3.5
+"2023-03-31","AOSL","Alpha and Omega Semiconductor Ltd","Information Technology",0.1,3.4,28,0.4,"1Q23",3.4
+"2023-03-31","CLDX","Celldex Therapeutics Inc","Health Care",0.1,3.4,47,0.2,"1Q23",3.4
+"2023-03-31","FFIC","Flushing Financial Corp","Financials",0.2,3.4,29,0.7,"1Q23",3.4
+"2023-03-31","FR","First Industrial Realty Trust Inc","Real Estate",0.1,3.4,132,0.1,"1Q23",3.4
+"2023-03-31","SUPN","Supernus Pharmaceuticals Inc","Health Care",0.1,3.4,54,0.2,"1Q23",3.4
+"2023-03-31","BRY","Berry Corporation (Bry)","Energy",0.4,3.3,77,0.5,"1Q23",3.3
+"2023-03-31","SPNT","Siriuspoint Ltd","Financials",0.5,3.3,162,0.3,"1Q23",3.3
+"2023-03-31","ESI","Element Solutions Inc","Materials",0.2,3.2,241,0.1,"1Q23",3.2
+"2023-03-31","SYNH","Syneos Health Inc","Health Care",0.1,3.2,104,0.1,"1Q23",3.2
+"2023-03-31","ASIX","AdvanSix Inc","Materials",0.1,3.1,28,0.4,"1Q23",3.1
+"2023-03-31","HY","Hyster-Yale Materials Handling Inc","Industrials",0.1,3.1,17,0.6,"1Q23",3.1
+"2023-03-31","PR","Permian Resources Corp","Energy",0.3,3.1,560,0.1,"1Q23",3.1
+"2023-03-31","TGI","Triumph Group Inc","Industrials",0.3,3.1,65,0.5,"1Q23",3.1
+"2023-03-31","ADTN","ADTRAN Holdings Inc","Information Technology",0.2,3,79,0.3,"1Q23",3
+"2023-03-31","GOOS","Canada Goose Holdings Inc","Consumer Discretionary",0.1,3,105,0.1,"1Q23",3
+"2023-03-31","HMST","HomeStreet Inc","Financials",0.1,3,19,0.5,"1Q23",3
+"2023-03-31","STC","Stewart Information Services Corp","Financials",0.1,3,27,0.4,"1Q23",3
+"2023-03-31","TDS","Telephone and Data Systems Inc","Communication Services",0.3,3,105,0.3,"1Q23",3
+"2023-03-31","TRN","Trinity Industries Inc","Industrials",0.1,3,81,0.1,"1Q23",3
+"2023-03-31","AL","Air Lease Corp","Industrials",0.1,2.9,111,0.1,"1Q23",2.9
+"2023-03-31","DH","Definitive Healthcare Corp","Health Care",0.2,2.9,154,0.1,"1Q23",2.9
+"2023-03-31","FRO","Frontline Plc","Energy",0.2,2.9,223,0.1,"1Q23",2.9
+"2023-03-31","NOGN","Nogin Inc","Consumer Discretionary",0.2,2.9,3,6.7,"1Q23",2.9
+"2023-03-31","PKE","Park Aerospace Corp","Industrials",0.2,2.9,20,1,"1Q23",2.9
+"2023-03-31","ROCK","Gibraltar Industries Inc","Industrials",0.1,2.9,31,0.3,"1Q23",2.9
+"2023-03-31","TSE","Trinseo PLC","Materials",0.1,2.9,35,0.3,"1Q23",2.9
+"2023-03-31","VRNA","Verona Pharma PLC","Health Care",0.1,2.9,79,0.1,"1Q23",2.9
+"2023-03-31","GTN","Gray Television Inc","Communication Services",0.2,2.8,93,0.2,"1Q23",2.8
+"2023-03-31","INMD","Inmode Ltd","Health Care",0.1,2.8,83,0.1,"1Q23",2.8
+"2023-03-31","MD","Pediatrix Medical Group Inc","Health Care",0.2,2.8,84,0.2,"1Q23",2.8
+"2023-03-31","VVX","V2X Inc","Industrials",0.1,2.8,31,0.3,"1Q23",2.8
+"2023-03-31","PCVX","Vaxcyte Inc","Health Care",0.1,2.7,81,0.1,"1Q23",2.7
+"2023-03-31","TTMI","TTM Technologies Inc","Information Technology",0.2,2.7,103,0.2,"1Q23",2.7
+"2023-03-31","AUPH","Aurinia Pharmaceuticals Inc","Health Care",0.3,2.6,143,0.2,"1Q23",2.6
+"2023-03-31","B","Barnes Group Inc","Industrials",0.1,2.6,51,0.2,"1Q23",2.6
+"2023-03-31","PRM","Perimeter Solutions SA","Materials",0.3,2.6,159,0.2,"1Q23",2.6
+"2023-03-31","PTON","Peloton Interactive Inc","Consumer Discretionary",0.2,2.6,354,0.1,"1Q23",2.6
+"2023-03-31","SAVA","Cassava Sciences Inc","Health Care",0.1,2.6,42,0.2,"1Q23",2.6
+"2023-03-31","ALLO","Allogene Therapeutics Inc","Health Care",0.4,2.5,146,0.3,"1Q23",2.5
+"2023-03-31","ATRO","Astronics Corp","Industrials",0.2,2.5,32,0.6,"1Q23",2.5
+"2023-03-31","DNLI","Denali Therapeutics Inc","Health Care",0.1,2.5,137,0.1,"1Q23",2.5
+"2023-03-31","KOP","Koppers Holdings Inc","Materials",0.1,2.5,21,0.5,"1Q23",2.5
+"2023-03-31","OCFC","OceanFirst Financial Corp","Financials",0.1,2.4,59,0.2,"1Q23",2.4
+"2023-03-31","PUMP","ProPetro Holding Corp","Energy",0.3,2.4,115,0.3,"1Q23",2.4
+"2023-03-31","TGH","Textainer Group Holdings Ltd","Industrials",0.1,2.4,42,0.2,"1Q23",2.4
+"2023-03-31","BMBL","Bumble Inc","Communication Services",0.1,2.3,138,0.1,"1Q23",2.3
+"2023-03-31","BZH","Beazer Homes USA Inc","Consumer Discretionary",0.2,2.3,31,0.6,"1Q23",2.3
+"2023-03-31","EVER","EverQuote Inc","Communication Services",0.2,2.3,33,0.6,"1Q23",2.3
+"2023-03-31","FSTR","L B Foster Co","Industrials",0.2,2.3,11,1.8,"1Q23",2.3
+"2023-03-31","HMN","Horace Mann Educators Corp","Financials",0.1,2.3,41,0.2,"1Q23",2.3
+"2023-03-31","ORN","Orion Group Holdings Inc","Industrials",0.8,2.3,32,2.5,"1Q23",2.3
+"2023-03-31","RARE","Ultragenyx Pharmaceutical Inc","Health Care",0.1,2.3,70,0.1,"1Q23",2.3
+"2023-03-31","RLAY","Relay Therapeutics Inc","Health Care",0.1,2.3,121,0.1,"1Q23",2.3
+"2023-03-31","ASLE","AerSale Corp","Industrials",0.1,2.2,51,0.2,"1Q23",2.2
+"2023-03-31","ATRC","AtriCure Inc","Health Care",0.1,2.2,47,0.2,"1Q23",2.2
+"2023-03-31","EAF","GrafTech International Ltd","Industrials",0.4,2.2,257,0.2,"1Q23",2.2
+"2023-03-31","GTES","Gates Industrial Corporation PLC","Industrials",0.2,2.2,283,0.1,"1Q23",2.2
+"2023-03-31","ICHR","Ichor Holdings Ltd","Information Technology",0.1,2.2,29,0.3,"1Q23",2.2
+"2023-03-31","IPI","Intrepid Potash Inc","Materials",0.1,2.2,13,0.8,"1Q23",2.2
+"2023-03-31","STEP","StepStone Group Inc","Financials",0.1,2.2,109,0.1,"1Q23",2.2
+"2023-03-31","UFI","Unifi Inc","Consumer Discretionary",0.3,2.2,18,1.7,"1Q23",2.2
+"2023-03-31","CNOB","ConnectOne Bancorp Inc","Financials",0.1,2.1,39,0.3,"1Q23",2.1
+"2023-03-31","KSS","Kohls Corp","Consumer Discretionary",0.1,2.1,111,0.1,"1Q23",2.1
+"2023-03-31","PDCO","Patterson Companies Inc","Health Care",0.1,2.1,98,0.1,"1Q23",2.1
+"2023-03-31","SM","SM Energy Co","Energy",0.1,2.1,121,0.1,"1Q23",2.1
+"2023-03-31","ZUMZ","Zumiez Inc","Consumer Discretionary",0.1,2.1,20,0.5,"1Q23",2.1
+"2023-03-31","CHCT","Community Healthcare Trust Inc","Real Estate",0.1,2,26,0.4,"1Q23",2
+"2023-03-31","DRQ","Dril-Quip Inc","Energy",0.1,2,34,0.3,"1Q23",2
+"2023-03-31","MLKN","MillerKnoll Inc","Industrials",0.1,2,76,0.1,"1Q23",2
+"2023-03-31","BBIO","BridgeBio Pharma Inc","Health Care",0.2,1.9,160,0.1,"1Q23",1.9
+"2023-03-31","CCRN","Cross Country Healthcare Inc","Health Care",0.1,1.9,36,0.3,"1Q23",1.9
+"2023-03-31","CMTL","Comtech Telecommunications Corp","Information Technology",0.1,1.9,28,0.4,"1Q23",1.9
+"2023-03-31","LXP","LXP Industrial Trust","Real Estate",0.2,1.9,293,0.1,"1Q23",1.9
+"2023-03-31","OPEN","Opendoor Technologies Inc","Real Estate",1.1,1.9,648,0.2,"1Q23",1.9
+"2023-03-31","SIX","Six Flags Entertainment Corp","Consumer Discretionary",0.1,1.9,83,0.1,"1Q23",1.9
+"2023-03-31","APPS","Digital Turbine Inc","Information Technology",0.1,1.8,99,0.1,"1Q23",1.8
+"2023-03-31","KRNY","Kearny Financial Corp","Financials",0.2,1.8,67,0.3,"1Q23",1.8
+"2023-03-31","PFC","Premier Financial Corp (OHIO)","Financials",0.1,1.8,36,0.3,"1Q23",1.8
+"2023-03-31","VCTR","Victory Capital Holdings Inc","Financials",0.1,1.8,67,0.1,"1Q23",1.8
+"2023-03-31","VZIO","Vizio Holding Corp","Consumer Discretionary",0.2,1.8,195,0.1,"1Q23",1.8
+"2023-03-31","ETRN","Equitrans Midstream Corp","Energy",0.3,1.7,434,0.1,"1Q23",1.7
+"2023-03-31","LBRT","Liberty Energy Inc","Energy",0.1,1.7,175,0.1,"1Q23",1.7
+"2023-03-31","CPLP","Capital Product Partners LP","Industrials",0.1,1.6,20,0.5,"1Q23",1.6
+"2023-03-31","CPRX","Catalyst Pharmaceuticals Inc","Health Care",0.1,1.6,106,0.1,"1Q23",1.6
+"2023-03-31","DHT","DHT Holdings Inc","Energy",0.2,1.6,163,0.1,"1Q23",1.6
+"2023-03-31","DOCN","DigitalOcean Holdings Inc","Information Technology",0.1,1.6,90,0.1,"1Q23",1.6
+"2023-03-31","EVBG","Everbridge Inc","Information Technology",0.1,1.6,40,0.2,"1Q23",1.6
+"2023-03-31","GDRX","GoodRx Holdings Inc","Health Care",0.3,1.6,398,0.1,"1Q23",1.6
+"2023-03-31","HAFC","Hanmi Financial Corp","Financials",0.1,1.6,31,0.3,"1Q23",1.6
+"2023-03-31","NX","Quanex Building Products Corp","Industrials",0.1,1.6,33,0.3,"1Q23",1.6
+"2023-03-31","SLCA","US Silica Holdings Inc","Energy",0.1,1.6,77,0.1,"1Q23",1.6
+"2023-03-31","SWIM","Latham Group Inc","Consumer Discretionary",0.5,1.6,115,0.4,"1Q23",1.6
+"2023-03-31","TARO","Taro Pharmaceutical Industries Ltd","Health Care",0.1,1.6,38,0.3,"1Q23",1.6
+"2023-03-31","AKR","Acadia Realty Trust","Real Estate",0.1,1.5,95,0.1,"1Q23",1.5
+"2023-03-31","ARLO","Arlo Technologies Inc","Information Technology",0.3,1.5,91,0.3,"1Q23",1.5
+"2023-03-31","EBIX","Ebix Inc","Information Technology",0.1,1.5,31,0.3,"1Q23",1.5
+"2023-03-31","EHAB","Enhabit Inc","Health Care",0.1,1.5,50,0.2,"1Q23",1.5
+"2023-03-31","PEB","Pebblebrook Hotel Trust","Real Estate",0.1,1.5,124,0.1,"1Q23",1.5
+"2023-03-31","RGNX","Regenxbio Inc","Health Care",0.1,1.5,43,0.2,"1Q23",1.5
+"2023-03-31","RUTH","Ruth's Hospitality Group Inc","Consumer Discretionary",0.1,1.5,33,0.3,"1Q23",1.5
+"2023-03-31","STKS","One Group Hospitality Inc","Consumer Discretionary",0.2,1.5,32,0.6,"1Q23",1.5
+"2023-03-31","TILE","Interface Inc","Industrials",0.2,1.5,58,0.3,"1Q23",1.5
+"2023-03-31","HPP","Hudson Pacific Properties Inc","Real Estate",0.2,1.4,141,0.1,"1Q23",1.4
+"2023-03-31","PRTS","Carparts.Com Inc","Consumer Discretionary",0.2,1.4,56,0.4,"1Q23",1.4
+"2023-03-31","SPWH","Sportsmans Warehouse Holdings Inc","Consumer Discretionary",0.2,1.4,38,0.5,"1Q23",1.4
+"2023-03-31","URBN","Urban Outfitters Inc","Consumer Discretionary",0.1,1.4,93,0.1,"1Q23",1.4
+"2023-03-31","WSR","Whitestone REIT","Real Estate",0.1,1.4,49,0.2,"1Q23",1.4
+"2023-03-31","ZIMV","ZimVie Inc","Health Care",0.2,1.4,26,0.8,"1Q23",1.4
+"2023-03-31","AORT","Artivion Inc","Health Care",0.1,1.3,42,0.2,"1Q23",1.3
+"2023-03-31","DENN","Denny's Corp","Consumer Discretionary",0.1,1.3,57,0.2,"1Q23",1.3
+"2023-03-31","EBS","Emergent BioSolutions Inc","Health Care",0.1,1.3,50,0.2,"1Q23",1.3
+"2023-03-31","ESTE","Earthstone Energy Inc","Energy",0.1,1.3,141,0.1,"1Q23",1.3
+"2023-03-31","HBNC","Horizon Bancorp Inc","Financials",0.1,1.3,44,0.2,"1Q23",1.3
+"2023-03-31","MERC","Mercer International Inc","Materials",0.1,1.3,66,0.2,"1Q23",1.3
+"2023-03-31","RGP","Resources Connection Inc","Industrials",0.1,1.3,34,0.3,"1Q23",1.3
+"2023-03-31","RRGB","Red Robin Gourmet Burgers Inc","Consumer Discretionary",0.1,1.3,16,0.6,"1Q23",1.3
+"2023-03-31","WOW","WideOpenWest Inc","Communication Services",0.1,1.3,86,0.1,"1Q23",1.3
+"2023-03-31","CRGY","Crescent Energy Co","Energy",0.1,1.2,167,0.1,"1Q23",1.2
+"2023-03-31","DSEY","Diversey Holdings Ltd","Materials",0.2,1.2,325,0.1,"1Q23",1.2
+"2023-03-31","EGO","Eldorado Gold Corp","Materials",0.1,1.2,185,0.1,"1Q23",1.2
+"2023-03-31","SFNC","Simmons First National Corp","Financials",0.1,1.2,127,0.1,"1Q23",1.2
+"2023-03-31","SKWD","Skyward Specialty Insurance Group Inc","Financials",0.1,1.2,38,0.3,"1Q23",1.2
+"2023-03-31","AHH","Armada Hoffler Properties Inc","Real Estate",0.1,1.1,88,0.1,"1Q23",1.1
+"2023-03-31","BGFV","Big 5 Sporting Goods Corp","Consumer Discretionary",0.1,1.1,22,0.5,"1Q23",1.1
+"2023-03-31","FGEN","FibroGen Inc","Health Care",0.1,1.1,94,0.1,"1Q23",1.1
+"2023-03-31","ORGO","Organogenesis Holdings Inc","Health Care",0.5,1.1,131,0.4,"1Q23",1.1
+"2023-03-31","RBBN","Ribbon Communications Inc","Information Technology",0.3,1.1,169,0.2,"1Q23",1.1
+"2023-03-31","USM","United States Cellular Corp","Communication Services",0.1,1.1,85,0.1,"1Q23",1.1
+"2023-03-31","YEXT","Yext Inc","Information Technology",0.1,1.1,124,0.1,"1Q23",1.1
+"2023-03-31","FBP","First Bancorp","Financials",0.1,1,180,0.1,"1Q23",1
+"2023-03-31","FLWS","1-800-Flowers.Com Inc","Consumer Discretionary",0.1,1,65,0.2,"1Q23",1
+"2023-03-31","HOUS","Anywhere Real Estate Inc","Real Estate",0.2,1,110,0.2,"1Q23",1
+"2023-03-31","LPG","Dorian LPG Ltd","Energy",0.1,1,40,0.2,"1Q23",1
+"2023-03-31","NGVC","Natural Grocers By Vitamin Cottage Inc","Consumer Staples",0.1,1,23,0.4,"1Q23",1
+"2023-03-31","SOI","Solaris Oilfield Infrastructure Inc","Energy",0.1,1,47,0.2,"1Q23",1
+"2023-03-31","SWI","SolarWinds Corp","Information Technology",0.1,1,164,0.1,"1Q23",1
+"2023-03-31","ASRT","Assertio Holdings Inc","Health Care",0.2,0.9,56,0.4,"1Q23",0.9
+"2023-03-31","BWAY","Brainsway Ltd","Health Care",0.4,0.9,33,1.2,"1Q23",0.9
+"2023-03-31","CLAR","Clarus Corp","Consumer Discretionary",0.1,0.9,37,0.3,"1Q23",0.9
+"2023-03-31","EBMT","Eagle Bancorp Montana Inc","Financials",0.1,0.9,8,1.2,"1Q23",0.9
+"2023-03-31","ESRT","Empire State Realty Trust Inc","Real Estate",0.1,0.9,161,0.1,"1Q23",0.9
+"2023-03-31","LL","LL Flooring Holdings Inc","Consumer Discretionary",0.2,0.9,31,0.6,"1Q23",0.9
+"2023-03-31","MRAM","Everspin Technologies Inc","Information Technology",0.1,0.9,21,0.5,"1Q23",0.9
+"2023-03-31","PFMT","Performant Financial Corp","Industrials",0.3,0.9,76,0.4,"1Q23",0.9
+"2023-03-31","QNST","Quinstreet Inc","Communication Services",0.1,0.9,54,0.2,"1Q23",0.9
+"2023-03-31","AAN","Aaron's Company Inc","Consumer Discretionary",0.1,0.8,31,0.3,"1Q23",0.8
+"2023-03-31","AXL","American Axle & Manufacturing Holdings Inc","Consumer Discretionary",0.1,0.8,117,0.1,"1Q23",0.8
+"2023-03-31","CHRS","Coherus BioSciences Inc","Health Care",0.1,0.8,80,0.1,"1Q23",0.8
+"2023-03-31","NDLS","Noodles & Co","Consumer Discretionary",0.1,0.8,46,0.2,"1Q23",0.8
+"2023-03-31","STIM","Neuronetics Inc","Health Care",0.2,0.8,28,0.7,"1Q23",0.8
+"2023-03-31","TLS","Telos Corp","Information Technology",0.2,0.8,69,0.3,"1Q23",0.8
+"2023-03-31","AIRG","Airgain Inc","Information Technology",0.1,0.7,10,1,"1Q23",0.7
+"2023-03-31","INN","Summit Hotel Properties Inc","Real Estate",0.1,0.7,107,0.1,"1Q23",0.7
+"2023-03-31","LTRX","Lantronix Inc","Information Technology",0.2,0.7,37,0.5,"1Q23",0.7
+"2023-03-31","OIS","Oil States International Inc","Energy",0.1,0.7,64,0.2,"1Q23",0.7
+"2023-03-31","PRCH","Porch Group Inc","Information Technology",0.3,0.7,97,0.3,"1Q23",0.7
+"2023-03-31","PRDO","Perdoceo Education Corp","Consumer Discretionary",0.1,0.7,67,0.1,"1Q23",0.7
+"2023-03-31","SCWX","SecureWorks Corp","Information Technology",0.1,0.7,86,0.1,"1Q23",0.7
+"2023-03-31","STKL","Sunopta Inc","Consumer Staples",0.1,0.7,115,0.1,"1Q23",0.7
+"2023-03-31","TBLA","Taboola.com Ltd","Communication Services",0.2,0.7,298,0.1,"1Q23",0.7
+"2023-03-31","ARAY","Accuray Inc","Health Care",0.2,0.6,95,0.2,"1Q23",0.6
+"2023-03-31","EVC","Entravision Communications Corp","Communication Services",0.1,0.6,88,0.1,"1Q23",0.6
+"2023-03-31","GHLD","Guild Holdings Co","Financials",0.1,0.6,61,0.2,"1Q23",0.6
+"2023-03-31","HT","Hersha Hospitality Trust","Real Estate",0.1,0.6,40,0.2,"1Q23",0.6
+"2023-03-31","NYMT","New York Mortgage Trust Inc","Financials",0.1,0.6,91,0.1,"1Q23",0.6
+"2023-03-31","SNPO","Snap One Holdings Corp","Consumer Discretionary",0.1,0.6,76,0.1,"1Q23",0.6
+"2023-03-31","TPC","Tutor Perini Corp","Industrials",0.1,0.6,52,0.2,"1Q23",0.6
+"2023-03-31","GPMT","Granite Point Mortgage Trust Inc","Financials",0.1,0.5,52,0.2,"1Q23",0.5
+"2023-03-31","LNSR","LENSAR Inc","Health Care",0.2,0.5,11,1.8,"1Q23",0.5
+"2023-03-31","HSC","Harsco Corp","Industrials",0.1,0.4,80,0.1,"1Q23",0.4
+"2023-03-31","RGF","Real Good Food Company Inc","Consumer Staples",0.1,0.4,26,0.4,"1Q23",0.4
+"2023-03-31","SCTL","Societal CDMO Inc","Health Care",0.3,0.4,85,0.4,"1Q23",0.4
+"2023-03-31","APRN","Blue Apron Holdings Inc","Consumer Staples",0.3,0.3,70,0.4,"1Q23",0.3
+"2023-03-31","AZRE","Azure Power Global Ltd","Utilities",0.1,0.3,64,0.2,"1Q23",0.3
+"2023-03-31","CDXC","Chromadex Corp","Health Care",0.2,0.3,75,0.3,"1Q23",0.3
+"2023-03-31","DOUG","Douglas Elliman Inc","Real Estate",0.1,0.3,84,0.1,"1Q23",0.3
+"2023-03-31","GBIO","Generation Bio Co","Health Care",0.1,0.3,60,0.2,"1Q23",0.3
+"2023-03-31","MNTX","Manitex International Inc","Industrials",0.1,0.3,20,0.5,"1Q23",0.3
+"2023-03-31","AP","Ampco-Pittsburgh Corp","Materials",0.1,0.2,19,0.5,"1Q23",0.2
+"2023-03-31","EXK","Endeavour Silver Corp","Materials",0.1,0.2,191,0.1,"1Q23",0.2
+"2023-03-31","SNCR","Synchronoss Technologies Inc","Information Technology",0.2,0.2,91,0.2,"1Q23",0.2
+"2023-03-31","USX","US Xpress Enterprises Inc","Industrials",0.1,0.2,53,0.2,"1Q23",0.2
+"2023-03-31","XELA","Exela Technologies Inc","Industrials",3,0.2,1274,0.2,"1Q23",0.2
+"2023-03-31","EVLO","Evelo Biosciences Inc","Health Care",0.1,0.1,111,0.1,"1Q23",0.1
+"2023-03-31","RGS","Regis Corp","Consumer Discretionary",0.1,0.1,46,0.2,"1Q23",0.1
+"2023-03-31","STCN","Steel Connect Inc","Industrials",0.1,0.1,61,0.2,"1Q23",0.1
